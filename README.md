@@ -4,7 +4,7 @@ Responsibility, companionship and charisma are part of my characteristics. I am 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=estigmaak&label=Profile%20views&color=0e6cb4&style=flat" alt="estigmaak" /> </p>
 
-- 🌱 I’m currently learning **in Henry Bootcamp**
+- 💼 I’m currently working as **Frontend Developer**
 
 - 📲 Can you send me a message [https://wa.link/2duqok](https://wa.link/2duqok)
 
